@@ -3,7 +3,7 @@
     "name": "FM9 basics",
     "description": "Tutorials, presets, and community for Fractal Audio's FM9 - The industry leading amp and cab modeling unit, in a powerful foot controller.",
     "image": "fm9.jpg",
-    "bio": "Welcome to FM9 Basics. My name is Rosh and I have been programming Fractal Products for over 10 years. My clients include: Def Leppard, Melissa Etheridge, A Perfect Circle, Steve Vai, Dweezil Zappa, Bush, and more. I want to give back to the Fractal Community and show some approaches and techniques for programming the Fractal Audio FM3    I'll be posting tutorials for how to program the Fractal Audio FM9. If you have any requests for tutorials please feel free to reach out. I also do 1:1 consultations remotely and can help you maximize all the sounds and tones of your unit.",
+    "bio": "Welcome to FM9 Basics. My name is Rosh and I have been programming Fractal Products for over 10 years. My clients include: Def Leppard, Melissa Etheridge, A Perfect Circle, Steve Vai, Dweezil Zappa, Bush, and more. I want to give back to the Fractal Community and show some approaches and techniques for programming the Fractal Audio FM9. I'll be posting tutorials for how to program the Fractal Audio FM9. If you have any requests for tutorials please feel free to reach out. I also do 1:1 consultations remotely and can help you maximize all the sounds and tones of your unit.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "",
     "phone": "",
@@ -19,18 +19,18 @@
     "resumedownload": "",
     "social": [
       {
-        "name": "twitter",
+        "name": "Twitter",
         "url": "http://twitter.com/RoshRoslin",
         "className": "fa fa-twitter"
       },
 
       {
-        "name": "instagram",
+        "name": "Instagram",
         "url": "http://instagram.com/RoshRoslin",
         "className": "fa fa-instagram"
       },
       {
-        "name": "youtube",
+        "name": "Youtube",
         "url": "http://youtube.com/RoshRoslin",
         "className": "fa fa-youtube"
       },
