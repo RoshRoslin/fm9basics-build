@@ -219,6 +219,7 @@ ul#nav li.current a {
   font: 22px/30px 'opensans-bold', sans-serif;
   color: #fff;
   margin-bottom: 12px;
+  margin-left: 35%;
 }
 #about p {
   line-height: 30px;
@@ -455,7 +456,7 @@ ul#nav li.current a {
   padding-bottom: 60px;
 }
 #portfolio h1 {
-  font: 15px/24px 'opensans-semibold', sans-serif;
+  font: 30px/48px 'opensans-semibold', sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
   text-align: center;
