@@ -122,10 +122,16 @@
         "url": "https://www.youtube.com/watch?v=kc4PsSN71KM"
       },
       {
-        "title": "Preset Volume leveling",
-        "category": "Preset Volume Leveling",
+        "title": "Effects Layout & Master Layout menu",
+        "category": "Effects Layout & Master Layout menu",
         "image": "03.jpg",
         "url": "https://www.youtube.com/watch?v=e7svZf0eP9Q"
+      },
+      {
+        "title": "Custom Layouts",
+        "category": "Custom Layouts",
+        "image": "04.jpg",
+        "url": "https://www.youtube.com/watch?v=bVrY2XBpvVU"
       }
     ]
   }
