@@ -122,8 +122,8 @@
         "url": "https://www.youtube.com/watch?v=kc4PsSN71KM"
       },
       {
-        "title": "Effects Layout & Master Layout menu",
-        "category": "Effects Layout & Master Layout menu",
+        "title": "Effects Layout & MLM",
+        "category": "Effects Layout",
         "image": "03.jpg",
         "url": "https://www.youtube.com/watch?v=e7svZf0eP9Q"
       },
@@ -132,6 +132,12 @@
         "category": "Custom Layouts",
         "image": "04.jpg",
         "url": "https://www.youtube.com/watch?v=bVrY2XBpvVU"
+      },
+      {
+        "title": "Custom Preset from Factory Sounds",
+        "category": "Custom Preset from Factory Sounds",
+        "image": "05.jpg",
+        "url": "https://youtu.be/1p-T9VfD1jI"
       }
     ]
   }
