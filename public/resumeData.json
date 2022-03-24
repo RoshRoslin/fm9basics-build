@@ -134,8 +134,8 @@
         "url": "https://www.youtube.com/watch?v=bVrY2XBpvVU"
       },
       {
-        "title": "Custom Preset from Factory Sounds",
-        "category": "Custom Preset from Factory Sounds",
+        "title": "Preset from Factory Sounds",
+        "category": "Preset from Factory Sounds",
         "image": "05.jpg",
         "url": "https://youtu.be/1p-T9VfD1jI"
       },
@@ -156,6 +156,12 @@
         "category": "Preset/Bank Navigation",
         "image": "08.jpg",
         "url": "https://www.youtube.com/watch?v=bNG9FcsIiWM"
+      },
+      {
+        "title": "Gain Staging/Volume Issues",
+        "category": "Preset/Bank Navigation",
+        "image": "09.jpg",
+        "url": "https://www.youtube.com/watch?v=XQzMl1VX-Vk"
       }
     ]
   }
